@@ -1,0 +1,47 @@
+Test Sonuçları: 128x128
+==================================================
+
+Accuracy: 0.2699
+Macro Precision: 0.2000
+Macro Recall: 0.0540
+Macro F1: 0.0851
+
+Confusion Matrix
+[[  0   0   0   0   0]
+ [935 406 162   0   0]
+ [  0   0   0   0   0]
+ [  0   0   0   0   0]
+ [  1   0   0   0   0]]
+
+ Sınıf Sonuçları 
+--------------------------------------------------
+Background
+Precision: 0.0000
+Recall: 0.0000
+F1: 0.0000
+Support: 0
+
+Class 0
+Precision: 1.0000
+Recall: 0.2701
+F1: 0.4254
+Support: 1503
+
+Class 1
+Precision: 0.0000
+Recall: 0.0000
+F1: 0.0000
+Support: 0
+
+Class 2
+Precision: 0.0000
+Recall: 0.0000
+F1: 0.0000
+Support: 0
+
+Class 3
+Precision: 0.0000
+Recall: 0.0000
+F1: 0.0000
+Support: 1
+

@@ -1,0 +1,47 @@
+Bütün ölçeklerin birleşik test sonuçları
+==================================================
+
+Accuracy: 0.6808
+Macro Precision: 0.2844
+Macro Recall: 0.2789
+Macro F1: 0.2484
+
+Confusion Matrix
+[[274443  14657  16519   2608   2106]
+ [ 70891  14218   7339   1792    648]
+ [  3103    411   1417     98    190]
+ [  6344    497    347    635     35]
+ [  6994    819    870     83     72]]
+
+ Sınıf Sonuçları 
+--------------------------------------------------
+Background
+Precision: 0.7586
+Recall: 0.8844
+F1: 0.8167
+Support: 310333
+
+Class 0
+Precision: 0.4646
+Recall: 0.1498
+F1: 0.2266
+Support: 94888
+
+Class 1
+Precision: 0.0535
+Recall: 0.2715
+F1: 0.0894
+Support: 5219
+
+Class 2
+Precision: 0.1217
+Recall: 0.0808
+F1: 0.0971
+Support: 7858
+
+Class 3
+Precision: 0.0236
+Recall: 0.0081
+F1: 0.0121
+Support: 8838
+

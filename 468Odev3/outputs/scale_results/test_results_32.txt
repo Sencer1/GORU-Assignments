@@ -1,0 +1,47 @@
+Test Sonuçları: 32x32
+==================================================
+
+Accuracy: 0.4470
+Macro Precision: 0.2912
+Macro Recall: 0.2971
+Macro F1: 0.2417
+
+Confusion Matrix
+[[26020  3126  4358   424   206]
+ [22435  5777  3124   756   263]
+ [  957   161   764    34    66]
+ [ 1645   181   163   343     8]
+ [ 2025   354   436    34    36]]
+
+ Sınıf Sonuçları 
+--------------------------------------------------
+Background
+Precision: 0.4902
+Recall: 0.7623
+F1: 0.5967
+Support: 34134
+
+Class 0
+Precision: 0.6018
+Recall: 0.1786
+F1: 0.2754
+Support: 32355
+
+Class 1
+Precision: 0.0864
+Recall: 0.3855
+F1: 0.1411
+Support: 1982
+
+Class 2
+Precision: 0.2156
+Recall: 0.1466
+F1: 0.1745
+Support: 2340
+
+Class 3
+Precision: 0.0622
+Recall: 0.0125
+F1: 0.0208
+Support: 2885
+
